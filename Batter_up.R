@@ -1,4 +1,5 @@
 #this is my solution to the May 10th 2019 riddler about baseball hit-streaks
+#https://fivethirtyeight.com/features/can-the-riddler-bros-beat-joe-dimaggios-hitting-streak/
 
 #input averages
 batters <- c(200, 250, 300, 350, 400, 500)
